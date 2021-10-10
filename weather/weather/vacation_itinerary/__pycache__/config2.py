@@ -1,0 +1,1 @@
+g_key="AIzaSyDrqPi1K8lL00T_3QCUx0ZxyMHXfGAlplI"
